@@ -17,7 +17,7 @@
 ### 活かしていきたいと考えています。
 ### 学習内容は以下にまとめております。
 ### 今後の学習予定は、TypeScript、Next.js、Vue.js
-### Nuxt、Python、PHP、Laravel、Go、などです。
+### Nuxt、PHP、Laravel、Go、などです。
 <br>
 
 ## ◼︎学習内容
